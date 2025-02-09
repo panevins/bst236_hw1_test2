@@ -1,0 +1,40 @@
+body {
+  background-color: #000;
+  color: #00FF00;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  color: #00FF00;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header, footer {
+  background-color: #333;
+  color: #00FF00;
+  padding: 10px;
+  text-align: center;
+}
+
+nav {
+  background-color: #444;
+  padding: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+}
+
+.container {
+  padding: 20px;
+  background-color: #111;
+  border: 1px solid #00FF00;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #00FF00;
+}
