@@ -6,3 +6,4 @@ description: This is my coding blog site created for BST 236.
 # Add navigation links
 header_pages:
   - about.md
+  - index.md
