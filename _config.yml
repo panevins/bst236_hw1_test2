@@ -1,0 +1,8 @@
+remote_theme: pages-themes/cayman@v0.2.0
+
+title: Pascale's Coding Blog
+description: This is my coding blog site created for BST 236.
+
+# Add navigation links
+header_pages:
+  - about.md
