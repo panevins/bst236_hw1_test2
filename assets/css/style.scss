@@ -18,11 +18,16 @@ header, footer {
   color: #00FF00;
   padding: 10px;
   text-align: center;
+  border: 2px solid #00FF00;
+  margin-bottom: 20px;
 }
 
 nav {
   background-color: #444;
   padding: 10px;
+  display: flex;
+  justify-content: center;
+  border: 2px solid #00FF00;
 }
 
 nav a {
@@ -32,9 +37,17 @@ nav a {
 .container {
   padding: 20px;
   background-color: #111;
-  border: 1px solid #00FF00;
+  border: 2px solid #00FF00;
+  margin-bottom: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #00FF00;
+}
+
+.box {
+  background-color: #222;
+  border: 2px solid #00FF00;
+  padding: 10px;
+  margin-bottom: 20px;
 }
