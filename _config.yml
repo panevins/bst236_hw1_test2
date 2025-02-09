@@ -7,3 +7,4 @@ description: This is my coding blog site created for BST 236.
 header_pages:
   - about.md
   - index.md
+  - pacman.html
