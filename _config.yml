@@ -9,3 +9,6 @@ header_pages:
   - about.md
   - index.md
   - pacman.html
+
+sass:
+  custom_css: /assets/css/style.scss
